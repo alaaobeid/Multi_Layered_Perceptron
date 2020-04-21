@@ -4,6 +4,7 @@ Created on Wed Mar 18 17:49:59 2020
 
 @author: Aladdin Tahir
 """
+#iterate over the test data and print the number of the activated perceptron and the prediction
 import sys
 p[0].print_weights()
 for t in testing_data:
